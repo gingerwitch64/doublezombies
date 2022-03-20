@@ -1,2 +1,3 @@
+scoreboard objectives add zombiecount dummy
 function doublezombies:timer
-tellraw @a {"text": "DoubleZombies v1.4 for 1.17", "italic": true, "color": "#189426"}
+tellraw @a {"text": "DoubleZombies v2.0", "italic": true, "color": "#189426"}

@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 9,
-        "description": "Doubles the amount of zombies every 5 minutes (FINITE DOUBLING PATCH)"
+        "description": "v3.0.0 Doubles the amount of zombies every 5 minutes"
     }
 }
